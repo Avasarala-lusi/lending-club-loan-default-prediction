@@ -1,14 +1,6 @@
 """
 10_model_dt.py  —  Decision Tree (default parameters)
 
-Standalone experiment with default sklearn parameters.
-Used to establish a pre-tuning baseline before Optuna search in
-13_model_selection.py.
-
-class_weight='balanced' adjusts for the 80/20 class imbalance.
-
-Input  : data/processed/train_features.csv, val_features.csv
-Output : console log (no artifact saved)
 """
 
 import logging
