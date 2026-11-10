@@ -283,3 +283,4 @@ question, we didn't measure that — happy to follow up."
 - If you go off-script, the next speaker still picks up at their tab.
 - Land within the 15-minute window. The 1/2-hour slot includes Q&A and
   buffer; a tight 14:30 leaves room for unscripted questions.
+
