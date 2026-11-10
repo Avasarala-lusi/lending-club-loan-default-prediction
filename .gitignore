@@ -1,0 +1,19 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+.venv/
+data/raw/
+data/processed/
+reports/
+EAS587_Phase1_Report.pdf
+EAS587 Phase1 Report.md
+model_training_design.md
+pipeline_report.md
+models/mlruns
+.claude/
+
+# Phase 4 - intermediate capture artifacts and Office lock files
+presentation/screenshots/
+~$*
